@@ -1,6 +1,6 @@
 #include <iostream>
 
-// smth code
+// smth
 
 int main() {
     std::cout << "testSubModule";
